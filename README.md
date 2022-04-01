@@ -1,5 +1,7 @@
 # Test Task
 
+### Heroku deploy: https://khoroshev-testtask.herokuapp.com/
+
 ### Формат файлов для загрузки:
 - Максимальный размер файла 300 байт.
 - Number decomposition: файл .txt, внутри которого одно число без пробелов или переводов строки в начале или в конце.
